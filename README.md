@@ -1,7 +1,7 @@
 
 ▟▛ ▞▚ ▛▟ █ ▜▛ 
 
-# YOUR PROJECT TITLE
+#### Title: Sanit
 #### Video Demo:  <URL HERE>
 #### Description:
 
@@ -12,7 +12,7 @@ command line that replace special characters in filenames with _
  
 '''
  make sanit
-''''
+'''
 
 
 #### Tell me more:
