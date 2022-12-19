@@ -1,2 +1,6 @@
-# sanit
-this simple tool does one thing strip special characters from filnames
+
+▟▛ ▞▚ ▛▟ █ ▜▛ 
+
+
+
+command line that replace special characters in filnames with _
