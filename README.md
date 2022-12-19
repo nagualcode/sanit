@@ -1,19 +1,16 @@
 
 ▟▛ ▞▚ ▛▟ █ ▜▛ 
 
-#### Title: Sanit
 #### Video Demo:  <URL HERE>
 #### Description:
 
 #### TL;DR:
 command line that replace special characters in filenames with _
 
-#### Compile:
- 
-'''
+#### How To Compile:
+```
  make sanit
-'''
-
+```
 
 #### Tell me more:
 
