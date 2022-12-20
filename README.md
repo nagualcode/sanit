@@ -1,9 +1,9 @@
 
 ▟▛ ▞▚ ▛▟ █ ▜▛ 
 
-#### Video Demo:  <URL HERE>
+#### Video Demo:  [https://youtu.be/MaVSDMhaIHI](https://youtu.be/MaVSDMhaIHI)
 #### Description:
-
+[github](https://github.com/nagualcode/sanit)
 #### TL;DR:
 command line that replace special characters in filenames with _
 
